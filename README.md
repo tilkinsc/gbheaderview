@@ -1,5 +1,7 @@
 # gbheaderview
-A single-source program which pretty-prints a gameboy/gameboy color header
+A single-source program which pretty-prints a gameboy/gameboy color header.
+
+Only works on little-endian systems.
 
 Example:
 ```
