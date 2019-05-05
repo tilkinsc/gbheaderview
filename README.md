@@ -42,16 +42,16 @@ Entry Point - 00 c3 ab 01
 
 Title - POKEMON YELLOW\0
 
-CGB Flag - 80
-New Licensee Code - (ASCII) 01
-SGB Flag - 03
+CGB Flag - 80 (CGB and GB)
+New Licensee Code - (ASCII) 01 (Nintendo)
+SGB Flag - 03 (SGB Functions)
 
-Cartridge Type - 1b
-Rom Size - 05
-Ram Size - 03
+Cartridge Type - 1b (MBC5+RAM+BATTERY)
+Rom Size - 05 (1MByte (64 banks) - only 63 banks used by MBC1)
+Ram Size - 03 (32 KByte (4 banks * 8 KByte))
 
-Destination Code - 01
-Old Licensee Code - 33
+Destination Code - 01 (Non-Japanese)
+Old Licensee Code - 33 (GBC - See Above)
 ROM Version - 00
 
 Header Checksum - 97
